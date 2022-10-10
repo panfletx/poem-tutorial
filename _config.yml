@@ -1,15 +1,15 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Florilegio de poesías
+tagline:             'by Alan Mendoza Sosa'
+description:         'Little tutorial'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/poem-tutorial'
 
 # About/contact
 author:
-  name:              Alex Gil
+  name:              Alan Mendoza
   url:               https://twitter.com/elotroalex
   email:             colibri.alex@gmail.com
 
